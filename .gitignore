@@ -1,1 +1,6 @@
 Что_то.png
+/bin
+/obj
+*.txt
+.gitignore
+*.png
